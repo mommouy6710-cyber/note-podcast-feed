@@ -2,7 +2,7 @@
 <rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>AI最新情報ポッドキャスト</title>
-    <description>ChatGPT・Claude・Geminiなど、毎日動くAI業界の最新情報を「ずんだもん」と「四国めたん」の掛け合いで楽しく解説するポッドキャストです。難しいAIニュースもキャラクター同士の会話でわかりやすく。通勤・家事のながら聴きにどうぞ。音声はAI音声合成（VOICEVOX）を使用しています。</description>
+    <description>ChatGPT・Claude・Geminiなど、毎日動くAI業界の最新情報をわかりやすい会話形式で解説するポッドキャストです。難しいAIニュースもキャラクター同士のやりとりでサクッと理解できます。通勤・家事のながら聴きにどうぞ。音声はAI音声合成（VOICEVOX）を使用しています。</description>
     <link>https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/podcast.xml</link>
     <language>ja</language>
     <ns0:author>mommouy6710-cyber</ns0:author>
