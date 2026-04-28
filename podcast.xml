@@ -1,21 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>AI最新情報ポッドキャスト</title>
     <description>note記事をずんだもんと四国めたんの掛け合いで聴けるポッドキャスト。毎朝のAI最新情報をながら聴きで。</description>
     <link>https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/podcast.xml</link>
     <language>ja</language>
-    <itunes:author>mommouy6710-cyber</itunes:author>
-    <itunes:email>mommouy6710@gmail.com</itunes:email>
-    <itunes:owner>
-      <itunes:name>mommouy6710-cyber</itunes:name>
-      <itunes:email>mommouy6710@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Technology" />
-    <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg" />
+    <ns0:author>mommouy6710-cyber</ns0:author>
+    <ns0:email>mommouy6710@gmail.com</ns0:email>
+    <ns0:owner>
+      <ns0:name>mommouy6710-cyber</ns0:name>
+      <ns0:email>mommouy6710@gmail.com</ns0:email>
+    </ns0:owner>
+    <ns0:category text="Technology" />
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:image href="https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg" />
     <image>
       <url>https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg</url>
       <title>AI最新情報ポッドキャスト</title>
@@ -23,20 +21,28 @@
     </image>
     <item>
       <title>【予告】AI最新情報ポッドキャスト、まもなく開始</title>
-      <description><![CDATA[
+      <description>
 ずんだもんと四国めたんがAI最新情報をわかりやすく解説するポッドキャストです。まもなく配信開始します。
 
 ▼ AI音声開示
 ※本エピソードはAI音声合成（VOICEVOX）を使用しています。
 音声：VOICEVOX:ずんだもん／VOICEVOX:四国めたん
-      ]]></description>
+      </description>
       <pubDate>Tue, 28 Apr 2026 07:00:00 +0900</pubDate>
       <guid isPermaLink="false">2026-04-28-trailer</guid>
       <enclosure url="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/episodes/2026-04-28.mp3" length="4188" type="audio/mpeg" />
-      <itunes:duration>00:00:01</itunes:duration>
-      <itunes:episode>0</itunes:episode>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
+      <ns0:duration>00:00:01</ns0:duration>
+      <ns0:episode>0</ns0:episode>
+      <ns0:episodeType>trailer</ns0:episodeType>
+      <ns0:explicit>false</ns0:explicit>
     </item>
-  </channel>
+  <item><title>Claude Code 2.1.121 リリースノートまとめ 2026/4/28</title><description>【AI最新情報】Claude Code 2.1.121 リリースノートまとめ 2026/4/28
+自動生成されたポッドキャストエピソードです。
+
+▼ 元記事
+https://note.com/odayakanushi/n/n93cedf6b27a4
+
+▼ AI音声開示
+※本エピソードはAI音声合成（VOICEVOX）を使用しています。
+音声：VOICEVOX:ずんだもん／VOICEVOX:四国めたん</description><pubDate>Tue, 28 Apr 2026 07:00:00 +0900</pubDate><guid isPermaLink="false">2026-04-28-claude-code-2.1.121-リリースノートまとめ-2026/4/28</guid><enclosure url="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/episodes/2026-04-28.mp3" length="787149" type="audio/mpeg" /><ns0:duration>00:00:00</ns0:duration><ns0:episode>1</ns0:episode><ns0:episodeType>full</ns0:episodeType><ns0:explicit>false</ns0:explicit><ns0:image href="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/images/channel.jpg" /></item></channel>
 </rss>
