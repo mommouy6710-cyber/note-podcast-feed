@@ -13,9 +13,9 @@
     </ns0:owner>
     <ns0:category text="Technology" />
     <ns0:explicit>false</ns0:explicit>
-    <ns0:image href="https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg" />
+    <ns0:image href="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/images/cover.jpg" />
     <image>
-      <url>https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg</url>
+      <url>https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/images/cover.jpg</url>
       <title>AI最新情報ポッドキャスト</title>
       <link>https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/podcast.xml</link>
     </image>
@@ -36,7 +36,9 @@
       <ns0:episodeType>trailer</ns0:episodeType>
       <ns0:explicit>false</ns0:explicit>
     </item>
-  <item><title>Claude Code 2.1.121 リリースノートまとめ 2026/4/28</title><description>【AI最新情報】Claude Code 2.1.121 リリースノートまとめ 2026/4/28
+  <item>
+    <title>Claude Code 2.1.121 リリースノートまとめ 2026/4/28</title>
+    <description>【AI最新情報】Claude Code 2.1.121 リリースノートまとめ 2026/4/28
 自動生成されたポッドキャストエピソードです。
 
 ▼ 元記事
@@ -44,5 +46,14 @@ https://note.com/odayakanushi/n/n93cedf6b27a4
 
 ▼ AI音声開示
 ※本エピソードはAI音声合成（VOICEVOX）を使用しています。
-音声：VOICEVOX:ずんだもん／VOICEVOX:四国めたん</description><pubDate>Tue, 28 Apr 2026 07:00:00 +0900</pubDate><guid isPermaLink="false">2026-04-28-claude-code-2.1.121-リリースノートまとめ-2026/4/28</guid><enclosure url="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/episodes/2026-04-28.mp3" length="787149" type="audio/mpeg" /><ns0:duration>00:00:00</ns0:duration><ns0:episode>1</ns0:episode><ns0:episodeType>full</ns0:episodeType><ns0:explicit>false</ns0:explicit><ns0:image href="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/images/channel.jpg" /></item></channel>
+音声：VOICEVOX:ずんだもん／VOICEVOX:四国めたん</description>
+    <pubDate>Tue, 28 Apr 2026 07:00:00 +0900</pubDate>
+    <guid isPermaLink="false">2026-04-28-ep-001</guid>
+    <enclosure url="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/episodes/2026-04-28.mp3" length="787149" type="audio/mpeg" />
+    <ns0:duration>00:01:57</ns0:duration>
+    <ns0:episode>1</ns0:episode>
+    <ns0:episodeType>full</ns0:episodeType>
+    <ns0:explicit>false</ns0:explicit>
+    <ns0:image href="https://raw.githubusercontent.com/mommouy6710-cyber/note-podcast-feed/main/images/cover.jpg" />
+  </item></channel>
 </rss>
