@@ -8,6 +8,11 @@
     <link>https://mommouy6710-cyber.github.io/note-podcast-feed/</link>
     <language>ja</language>
     <itunes:author>mommouy6710-cyber</itunes:author>
+    <itunes:email>mommouy6710@gmail.com</itunes:email>
+    <itunes:owner>
+      <itunes:name>mommouy6710-cyber</itunes:name>
+      <itunes:email>mommouy6710@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://mommouy6710-cyber.github.io/note-podcast-feed/cover.jpg" />
@@ -16,6 +21,22 @@
       <title>AI最新情報ポッドキャスト</title>
       <link>https://mommouy6710-cyber.github.io/note-podcast-feed/</link>
     </image>
-    <!-- episodes will be inserted here by feed_update.py -->
+    <item>
+      <title>【予告】AI最新情報ポッドキャスト、まもなく開始</title>
+      <description><![CDATA[
+ずんだもんと四国めたんがAI最新情報をわかりやすく解説するポッドキャストです。まもなく配信開始します。
+
+▼ AI音声開示
+※本エピソードはAI音声合成（VOICEVOX）を使用しています。
+音声：VOICEVOX:ずんだもん／VOICEVOX:四国めたん
+      ]]></description>
+      <pubDate>Tue, 28 Apr 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">2026-04-28-trailer</guid>
+      <enclosure url="https://mommouy6710-cyber.github.io/note-podcast-feed/episodes/2026-04-28.mp3" length="1" type="audio/mpeg" />
+      <itunes:duration>00:00:01</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
